@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 7\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.pdb

@@ -1,0 +1,12 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.sourcelink.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll

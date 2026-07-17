@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\bin\Debug\SeasonsLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\bin\Debug\SeasonsLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\obj\Debug\SeasonsLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 6\FourSeasonsLib\obj\Debug\SeasonsLib.pdb

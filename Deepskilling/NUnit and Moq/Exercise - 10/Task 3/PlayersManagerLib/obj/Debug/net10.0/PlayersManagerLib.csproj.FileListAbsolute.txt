@@ -1,0 +1,13 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\bin\Debug\net10.0\PlayersManagerLib.deps.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\bin\Debug\net10.0\PlayersManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\bin\Debug\net10.0\PlayersManagerLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.AssemblyInfoInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.AssemblyInfo.cs
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.sourcelink.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\refint\PlayersManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\PlayersManagerLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 3\PlayersManagerLib\obj\Debug\net10.0\ref\PlayersManagerLib.dll

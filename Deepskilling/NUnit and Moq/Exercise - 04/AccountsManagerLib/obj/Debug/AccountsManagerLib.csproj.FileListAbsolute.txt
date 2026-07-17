@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\bin\Debug\AccountsManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\bin\Debug\AccountsManagerLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\obj\Debug\AccountsManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 4\AccountsManagerLib\obj\Debug\AccountsManagerLib.pdb

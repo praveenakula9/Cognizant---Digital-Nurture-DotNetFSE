@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\bin\Debug\ConverterLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\bin\Debug\ConverterLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\obj\Debug\ConverterLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 9\ConverterLib\obj\Debug\ConverterLib.pdb

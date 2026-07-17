@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\bin\Debug\CollectionsLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\bin\Debug\CollectionsLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\obj\Debug\CollectionsLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\obj\Debug\CollectionsLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 5\CollectionsLib\obj\Debug\CollectionsLib.pdb

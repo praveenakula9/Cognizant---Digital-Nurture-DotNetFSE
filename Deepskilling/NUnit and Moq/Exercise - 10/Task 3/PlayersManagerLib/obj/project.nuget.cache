@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bhY3PFz4DE=",
+  "success": true,
+  "projectFilePath": "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 10\\Task 3\\PlayersManagerLib\\PlayersManagerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

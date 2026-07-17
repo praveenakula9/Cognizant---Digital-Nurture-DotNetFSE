@@ -1,0 +1,11 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.sourcelink.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb

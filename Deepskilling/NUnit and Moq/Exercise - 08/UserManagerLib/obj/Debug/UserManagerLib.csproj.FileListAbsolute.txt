@@ -1,0 +1,6 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\bin\Debug\UserManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\bin\Debug\UserManagerLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\obj\Debug\UserManagerLib.csproj.AssemblyReference.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\obj\Debug\UserManagerLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\obj\Debug\UserManagerLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 8\UserManagerLib\obj\Debug\UserManagerLib.pdb

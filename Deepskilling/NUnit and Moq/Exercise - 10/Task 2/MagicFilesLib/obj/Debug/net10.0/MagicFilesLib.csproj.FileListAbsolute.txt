@@ -1,0 +1,12 @@
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\bin\Debug\net10.0\MagicFilesLib.deps.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\bin\Debug\net10.0\MagicFilesLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\bin\Debug\net10.0\MagicFilesLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.AssemblyInfoInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.AssemblyInfo.cs
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.sourcelink.json
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\refint\MagicFilesLib.dll
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\MagicFilesLib.pdb
+E:\Cognizant\Deepskilling\NUnit and Moq\Parent project code\Exercise - 10\Task 2\MagicFilesLib\obj\Debug\net10.0\ref\MagicFilesLib.dll

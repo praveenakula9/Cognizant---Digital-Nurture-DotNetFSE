@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.csproj",
+        "projectName": "UserManagerLib",
+        "projectPath": "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "e:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj",
+        "projectName": "UserManagerLib.Tests",
+        "projectPath": "e:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj",
+        "packagesPath": "C:\\Users\\Durga Sri praveen\\.nuget\\packages\\",
+        "outputPath": "e:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Durga Sri praveen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.csproj": {
+                "projectPath": "E:\\Cognizant\\Deepskilling\\NUnit and Moq\\Parent project code\\Exercise - 8\\UserManagerLib\\UserManagerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
