@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebApiLab1": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}
